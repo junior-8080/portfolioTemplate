@@ -235,3 +235,9 @@ footer {
     color: #000000;
     margin-left: 5px;
 }
+@media(max-width:650px){
+    .min-width{
+        max-width: 100%;
+        width:100%;
+    }
+}
